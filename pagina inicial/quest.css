@@ -1,0 +1,102 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    background-color: rgb(202, 201, 201);
+
+  }
+
+ 
+
+ 
+
+  h1 {
+
+    font-size: 2em;
+
+    text-align: center;
+
+  }
+
+ 
+
+  label {
+
+    display: block;
+
+    margin-bottom: 5px;
+
+    text-align: justify;
+
+    margin-left: 30%;
+
+  }
+
+ 
+
+  select {
+
+    padding: 10px;
+
+    border: none;
+
+    border-radius: 20px;
+
+    background-color: #ffffff;
+
+    margin-bottom: 5px;
+
+    width: 50%;
+
+    font-size: 1em;
+
+    margin-left: 30%;
+
+   
+
+  }
+
+ 
+
+  option {
+
+    font-size: 1em;
+
+  }
+
+ 
+
+  br {
+
+    clear: both;
+
+  }
+
+  header{
+
+  background-color: #000000;
+
+  color: #dadada;
+
+  padding: 1em;
+
+  }
+
+ 
+
+  fieldset{
+
+    width: 50%;
+
+    margin-left: 23%;
+
+    border: 5px rgb(0, 0, 0) solid;
+
+  }
+
+  .btn{
+width: 100px;
+margin-left: 450px;
+
+
+  }

@@ -1,0 +1,103 @@
+body, h1, h2, p {
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+
+
+/* Definir uma cor de fundo para o corpo */
+
+body {
+
+  background-color: #f0f0f0;
+
+  font-family: Arial, sans-serif;
+
+}
+
+
+
+/* Estilizar o cabeçalho */
+
+header {
+
+  background-color: #333;
+
+  color: white;
+
+  text-align: center;
+
+  padding: 10px;
+
+}
+
+
+
+/* Estilizar o conteúdo principal */
+
+main {
+
+  max-width: 800px;
+
+  margin: 20px auto;
+
+  padding: 20px;
+
+  background-color: white;
+
+  border-radius: 5px;
+
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+
+
+/* Estilizar a seção de perfil */
+
+#perfil {
+
+  margin-bottom: 20px;
+
+}
+
+
+
+#perfil h2 {
+
+  color: #333;
+
+  border-bottom: 1px solid #ccc;
+
+  padding-bottom: 10px;
+
+  margin-bottom: 10px;
+
+}
+
+
+
+#perfil p {
+
+  line-height: 1.5;
+
+}
+
+
+
+/* Estilizar a imagem da galeria */
+
+#galeria img {
+
+  max-width: 100%;
+
+  height: auto;
+
+  border-radius: 5px;
+
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
